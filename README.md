@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 Here are a few projects I've been working on:
 
 - [NU ENGAGE](https://github.com/IceHearted/NU-ENGAGE-A-Student-App) - NU ENGAGE is a comprehensive Android application designed to streamline various college-related tasks for students. The app offers a unified platform for accessing essential college resources, along with secure user authentication powered by Google Firebase.
-- [Interactive ATM Simulation](https://github.com/IceHearted/OIBSIP_ATM-INTERFACE) - This Java application brings the world of banking to your fingertips, allowing you to create accounts, perform secure logins, and manage your funds through a user-friendly ATM interface.
-- [Number Guessing Game](https://github.com/IceHearted/OIBSIP_NUMBER-GUESSING-GAME) - This interactive Java game challenges you to guess a randomly selected number within a specified range. Choose your difficulty level, make your guesses, and see how quickly you can crack the code.
+- [Interactive ATM Simulation](https://github.com/IceHearted/OIBSIP/tree/main/OIBSIP_ATM-INTERFACE) - This Java application brings the world of banking to your fingertips, allowing you to create accounts, perform secure logins, and manage your funds through a user-friendly ATM interface.
+- [Number Guessing Game](https://github.com/IceHearted/OIBSIP/tree/main/OIBSIP_NUMBER-GUESSING-GAME) - This interactive Java game challenges you to guess a randomly selected number within a specified range. Choose your difficulty level, make your guesses, and see how quickly you can crack the code.
   
 Feel free to explore my repositories for more interesting projects!
 
