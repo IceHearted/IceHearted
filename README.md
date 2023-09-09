@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 ## About Me
 
-- 🔭 I’m currently working on Oasis Infobyte, where I'm Java Programmer.
+- 🔭 I’m currently working on INFOTRIXS, where I'm Java Programmer.
 - 🌱 I’m currently learning Java Programmer, and I'm excited to dive deeper into Java Full Stack Developer.
 - 📫 How to reach me: katarurupi@gmail.com
 
